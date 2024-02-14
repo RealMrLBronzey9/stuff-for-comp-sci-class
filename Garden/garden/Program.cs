@@ -21,9 +21,9 @@
             if(choice == 1){    // Rectangle
 
                 // Ask for garden parameters
-                Console.WriteLine("What is the length of your garden going to be?");
+                Console.WriteLine("What is the length of your garden going to be in smoots?");
                 length = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("What is the width of your garden going to be?");
+                Console.WriteLine("What is the width of your garden going to be in smoots?");
                 width = Convert.ToDouble(Console.ReadLine());
 
                 // Calculate perimeter and area of garden
@@ -40,7 +40,7 @@
             else if(choice == 2){   // Circle
                 
                 // Ask for garden parameters
-                Console.WriteLine("What is the radius of your garden?");
+                Console.WriteLine("What is the radius of your garden in smoots?");
                 radius = Convert.ToDouble(Console.ReadLine());
 
                 // Calculate circumference and area
