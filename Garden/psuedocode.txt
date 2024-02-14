@@ -1,0 +1,67 @@
+# DECLARE VARIABLES
+DECLARE constant double PI with value of 3.141592653589
+DECLARE double length, width
+DECLARE double perimeter, area
+DECLARE double radius
+DECLARE string name
+DECLARE int choice
+
+# Introduction
+PRINT -> welcome message
+
+# Ask user for name
+PRINT -> ask user for name
+GET INPUT string <- user's name
+STORE user's name in variable name
+
+# Ask if user wants rectangule or circle garden
+PRINT -> ask user for garden shape
+GET INPUT int <- user selection   #(1 = rect, 2 = cir)
+STORE user selection in variable choice
+
+# Determine choice
+IF choice = 1
+    THEN EXECUTE:
+        # Ask for garden parameters
+        PRINT -> ask user for length
+        GET INPUT double <- length
+        STORE user's name in variable length
+        PRINT -> ask user for width
+        GET INPUT double <- width
+        STORE user's name in variable width
+
+        # Calculate perimeter and area of garden 
+        CALCULATE double perimeter <- 2*length + 2*width
+        STORE perimeter in double variable perimeter
+        CALCULATE double area <- length*width
+        STORE area in double variable area
+
+        # Output garden parameters to the user
+        PRINT -> message + length
+        PRINT -> message + width
+        PRINT -> message + perimeter
+        PRINT -> message + area
+
+ELSE IF choice = 2
+    THEN EXECUTE:
+        # Ask for garden parameters
+        PRINT -> ask user for radius
+        GET INPUT double <- radius
+        STORE radius in variable radius
+
+        # Calculate circumference and area
+        CALCULATE double circumference <- 2*PI*radius
+        STORE circumference in variable circumference
+        CALCULATE double area <- PI*(radius*radius)
+        STORE area in variable area
+
+        # Output garden parameters to the user
+        PRINT -> message + radius + diameter=radius*2
+        PRINT -> message + circumference
+        PRINT -> message + area
+
+
+# Congratulate user on their garden
+PRINT -> congratulations message using variable name
+PRINT -> warning message
+

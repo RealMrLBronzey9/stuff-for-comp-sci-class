@@ -1,0 +1,14 @@
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/garden.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/garden.AssemblyInfoInputs.cache
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/garden.AssemblyInfo.cs
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/garden.csproj.CoreCompileInputs.cache
+/run/media/BigStorage/Projects/C#/Garden/garden/bin/Debug/net8.0/garden
+/run/media/BigStorage/Projects/C#/Garden/garden/bin/Debug/net8.0/garden.deps.json
+/run/media/BigStorage/Projects/C#/Garden/garden/bin/Debug/net8.0/garden.runtimeconfig.json
+/run/media/BigStorage/Projects/C#/Garden/garden/bin/Debug/net8.0/garden.dll
+/run/media/BigStorage/Projects/C#/Garden/garden/bin/Debug/net8.0/garden.pdb
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/garden.dll
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/refint/garden.dll
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/garden.pdb
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/garden.genruntimeconfig.cache
+/run/media/BigStorage/Projects/C#/Garden/garden/obj/Debug/net8.0/ref/garden.dll

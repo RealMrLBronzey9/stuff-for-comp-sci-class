@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u46+/QCQV/T0E90/wNUGKtW1pUtpRiA126mp9HT3DJjJH1BSshEywPlytjBMARhySd7qvTBst+ON+VYUbMBDPQ==",
+  "success": true,
+  "projectFilePath": "/run/media/BigStorage/Projects/C#/Garden/garden/garden.csproj",
+  "expectedPackageFiles": [
+    "/home/anthony/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
