@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "42uVoAJeBqG675hHtdPEfsw7ANtZQWOG78dDt+E/z36Oael6DVri9nLK9L3Zi8RDDxQSobsWV2atwAhwKWVXpg==",
+  "success": true,
+  "projectFilePath": "/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/Smoothie.csproj",
+  "expectedPackageFiles": [
+    "/home/anthony/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

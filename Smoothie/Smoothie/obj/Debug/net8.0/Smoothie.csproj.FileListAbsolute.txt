@@ -1,0 +1,15 @@
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/bin/Debug/net8.0/Smoothie
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/bin/Debug/net8.0/Smoothie.deps.json
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/bin/Debug/net8.0/Smoothie.runtimeconfig.json
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/bin/Debug/net8.0/Smoothie.dll
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/bin/Debug/net8.0/Smoothie.pdb
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/Smoothie.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/Smoothie.AssemblyInfoInputs.cache
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/Smoothie.AssemblyInfo.cs
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/Smoothie.csproj.CoreCompileInputs.cache
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/Smoothie.sourcelink.json
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/Smoothie.dll
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/refint/Smoothie.dll
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/Smoothie.pdb
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/Smoothie.genruntimeconfig.cache
+/run/media/BigStorage/Projects/CompSci/Assignments/stuff-for-comp-sci-class/Smoothie/Smoothie/obj/Debug/net8.0/ref/Smoothie.dll
